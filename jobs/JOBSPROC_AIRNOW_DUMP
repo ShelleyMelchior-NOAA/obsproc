@@ -1,4 +1,4 @@
-#!/bin/ksh
+#!/bin/sh
 # JOBSPROC_AIRNOW_DUMP - 24 Oct 2014
 #  J-job script to run AIRNOW_DUMP processing (ozone dump & mini pb creation)
 #
